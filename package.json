@@ -1,0 +1,27 @@
+{
+  "name": "responsable",
+  "version": "0.0.0",
+  "description": "Adds http response to the model object.",
+  "main": "responsable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/responsable.git"
+  },
+  "keywords": [
+    "response",
+    "stream-response",
+    "http-response"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/responsable/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/responsable#readme",
+  "dependencies": {
+    "synthetos": "0.0.0"
+  }
+}
